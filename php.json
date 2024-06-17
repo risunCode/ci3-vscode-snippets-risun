@@ -14,9 +14,7 @@
 	// 		"$2"
 	// 	],
 	// 	"description": "Log output to console"
-	// 
-
-	{
+	//  
 		/* CodeIgniter Query Builder Class */
 		"CodeIgniter Database INSERT": {
 			"prefix": "db_insert",
